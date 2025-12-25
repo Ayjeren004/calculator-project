@@ -3,7 +3,7 @@
 A simple calculator built with HTML, CSS, and vanilla JavaScript as a mini front-end project.
 
 ## Live Demo
-https://YOUR-USERNAME.github.io/REPO-NAME/
+https://ayjeren004.github.io/calculator-project/
 
 ## Tech Stack
 - HTML
